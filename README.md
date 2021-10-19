@@ -24,3 +24,5 @@ export OMP_NUM_THREADS=1
 ![main](cpo_theory/main.png "CPO main problem")
 ![feasible](cpo_theory/feasible.png "CPO feasible solution")
 ![infeasible](cpo_theory/infeasible.png "CPO infeasible solution")
+
+<img src="cpo_theory/main.png" alt="CPO main problem" style="height: 100px; width:100px;"/>
